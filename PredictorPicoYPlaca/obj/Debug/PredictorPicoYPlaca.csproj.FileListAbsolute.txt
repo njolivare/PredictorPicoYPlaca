@@ -1,0 +1,13 @@
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Debug\PredictorPicoYPlaca.exe.config
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Debug\PredictorPicoYPlaca.exe
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Debug\PredictorPicoYPlaca.pdb
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\obj\Debug\PredictorPicoYPlaca.csprojResolveAssemblyReference.cache
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\obj\Debug\PredictorPicoYPlaca.Properties.Resources.resources
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\obj\Debug\PredictorPicoYPlaca.csproj.GenerateResource.Cache
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\obj\Debug\PredictorPicoYPlaca.exe
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\obj\Debug\PredictorPicoYPlaca.pdb
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Debug\PredictorPicoYPlacaClassLibrary.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Debug\EntityFramework.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Debug\PredictorPicoYPlacaClassLibrary.pdb
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Debug\EntityFramework.xml
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\obj\Debug\PredictorPicoYPlaca.Form1.resources

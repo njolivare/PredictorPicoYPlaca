@@ -1,0 +1,10 @@
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaClassLibrary\bin\Debug\PredictorPicoYPlacaClassLibrary.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaClassLibrary\bin\Debug\PredictorPicoYPlacaClassLibrary.pdb
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaClassLibrary\obj\Debug\PredictorPicoYPlacaClassLibrary.csprojResolveAssemblyReference.cache
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaClassLibrary\obj\Debug\PredictorPicoYPlacaClassLibrary.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaClassLibrary\obj\Debug\PredictorPicoYPlacaClassLibrary.pdb
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaClassLibrary\bin\Debug\PredictorPicoYPlacaClassLibrary.dll.config
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaClassLibrary\bin\Debug\EntityFramework.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaClassLibrary\bin\Debug\EntityFramework.xml
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaClassLibrary\bin\Debug\EntityFramework.SqlServer.xml

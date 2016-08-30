@@ -1,0 +1,11 @@
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\bin\Release\PredictorPicoYPlacaUnitTest.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\bin\Release\PredictorPicoYPlacaUnitTest.pdb
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\bin\Release\PredictorPicoYPlacaClassLibrary.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\bin\Release\EntityFramework.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\bin\Release\PredictorPicoYPlacaClassLibrary.pdb
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\bin\Release\EntityFramework.xml
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\obj\Release\PredictorPicoYPlacaUnitTest.csprojResolveAssemblyReference.cache
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\obj\Release\PredictorPicoYPlacaUnitTest.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\obj\Release\PredictorPicoYPlacaUnitTest.pdb
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\bin\Release\PredictorPicoYPlacaUnitTest.dll.CodeAnalysisLog.xml
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\bin\Release\PredictorPicoYPlacaUnitTest.dll.lastcodeanalysissucceeded

@@ -1,0 +1,9 @@
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\bin\Debug\PredictorPicoYPlacaUnitTest.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\bin\Debug\PredictorPicoYPlacaUnitTest.pdb
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\obj\Debug\PredictorPicoYPlacaUnitTest.csprojResolveAssemblyReference.cache
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\obj\Debug\PredictorPicoYPlacaUnitTest.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\obj\Debug\PredictorPicoYPlacaUnitTest.pdb
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\bin\Debug\PredictorPicoYPlacaClassLibrary.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\bin\Debug\EntityFramework.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\bin\Debug\PredictorPicoYPlacaClassLibrary.pdb
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlacaUnitTest\bin\Debug\EntityFramework.xml

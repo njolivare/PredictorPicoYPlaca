@@ -1,0 +1,17 @@
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Release\PredictorPicoYPlaca.exe.config
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Release\PredictorPicoYPlaca.exe
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Release\PredictorPicoYPlaca.pdb
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Release\PredictorPicoYPlacaClassLibrary.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Release\EntityFramework.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Release\PredictorPicoYPlacaClassLibrary.pdb
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Release\EntityFramework.xml
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\obj\Release\PredictorPicoYPlaca.csprojResolveAssemblyReference.cache
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\obj\Release\PredictorPicoYPlaca.Form1.resources
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\obj\Release\PredictorPicoYPlaca.Properties.Resources.resources
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\obj\Release\PredictorPicoYPlaca.csproj.GenerateResource.Cache
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\obj\Release\PredictorPicoYPlaca.exe
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\obj\Release\PredictorPicoYPlaca.pdb
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Release\EntityFramework.SqlServer.dll
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Release\EntityFramework.SqlServer.xml
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Release\PredictorPicoYPlaca.exe.CodeAnalysisLog.xml
+D:\Projects\PredictorPicoYPlaca\PredictorPicoYPlaca\bin\Release\PredictorPicoYPlaca.exe.lastcodeanalysissucceeded
